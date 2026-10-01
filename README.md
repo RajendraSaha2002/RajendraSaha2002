@@ -9,7 +9,7 @@
 
 💻 Passionate about Software Development, Database Systems 
 
-🛠️ Working with Python, Java, Kotlin, SQL, Javascript, HTML, CSS, C++, C
+🛠️ Working with Python, Java, Kotlin, SQL, Go, Javascript, HTML, CSS, C++, C
 
 📊 Interested in Advanced GUI Systems & Database Visualization  
 
